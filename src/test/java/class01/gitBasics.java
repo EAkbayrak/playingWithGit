@@ -5,5 +5,6 @@ public class gitBasics {
 
         System.out.println("But how much of a beautiful day is it");
         System.out.println("I'm not sure about that");
+        System.out.println("does this commit count");
     }
 }
